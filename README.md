@@ -1,5 +1,8 @@
 # weatherApp
 
+
+![Screenshot from 2022-07-01 20-29-54](https://user-images.githubusercontent.com/33202163/176942610-e9bdff07-759a-4e06-9b99-32e36d6c8a25.png)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
